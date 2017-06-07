@@ -9,21 +9,37 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/com-chip.jpg": {
+		"ft": 16384,
+		"iS": 134635,
+		"oA": 0,
+		"oAP": "\/com-chip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/email-Inline.HTML": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/email-Inline.HTML",
+		"oF": 0
+		},
 	"\/email.HTML": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/email.HTML",
 		"oF": 0
 		},
-	"\/rick-and-morty.jpg": {
-		"ft": 16384,
-		"iS": 1061188,
+	"\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/rick-and-morty.jpg",
+		"oAP": "\/style-min.css",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oS": 0
 		},
 	"\/style.sass": {
 		"aP": 0,
@@ -47,7 +63,7 @@
 	"creationDate": 518484931,
 	"displayValue": "HTML-Email",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-obama"
+	"iconImageName": "meme-cryingJordan"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

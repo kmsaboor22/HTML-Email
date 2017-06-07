@@ -1,16 +1,52 @@
-	.email-background
-		 background: #eee
-		 padding: 10px
+.email-background
+	background: #eee
+	padding: 10px
 
-	.email-container
+.email-container
 	max-width: 500px
-	background: pink
+	background: white
 	font-family: sans-serif
+	margin: 0 auto
+	overflow: hidden
+	border-radius: 5px
+	text-align: center
 
-	.pre-header
-		@extend .email-container
-		background: #eee
-		color:  #eee
+.pre-header
+	@extend .email-container
+	background: #eee
+	color: #eee
+	font-size: 5px
 
-	img
+img
 		max-width: 100%
+
+a
+	color: #3b5998
+
+p
+		margin: 20px
+		font-size: 18px
+		font-weight: 300
+		color: #666
+		line-height: 1.5
+
+.cta
+	margin: 20px
+
+
+a
+	text-decoration: none
+	display: inline-block
+	background: #3b5998
+	color: white
+	padding: 10px 20px
+	border-radius: 5px
+
+
+
+
+.footer
+	@extend .email-container
+	background: none
+	padding: 20px
+	font-size: 12px
