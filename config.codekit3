@@ -31,6 +31,16 @@
 		"oAP": "\/email.HTML",
 		"oF": 0
 		},
+	"\/rick-and-morty.jpg": {
+		"ft": 16384,
+		"iS": 1061188,
+		"oA": 0,
+		"oAP": "\/rick-and-morty.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/style.css": {
 		"aP": 1,
 		"bl": 0,
